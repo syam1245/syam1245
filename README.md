@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syam1245
+- 👋 Hi, I’m syam
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Programming
